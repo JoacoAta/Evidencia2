@@ -1,7 +1,7 @@
 # Sistema de monitoreo Agrotech Coop
-Este programa permite navegar interactuando con un menu, que lleva a submenus dependiendo de la eleccion del usuario y largando, por ultimo, un print con la o las funcionalidades que se aplicarian en un futuro.
+Este programa permite la gestion de parcelas y sensores, registrar mediciones y vizualizar los datos actualizados, a travez de un menu y submenues interactivos
 
-### Integrantes del GrupoIntegrantes del Grupo:
+### Integrantes del Grupo:
 **Lamas, Liliana Elizabeth**
 
 **DNI:** 16790184
