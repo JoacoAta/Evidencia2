@@ -3,22 +3,22 @@ Este programa permite navegar interactuando con un menu, que lleva a submenus de
 
 ### Integrantes del GrupoIntegrantes del Grupo:
 **Lamas, Liliana Elizabeth**
-**DNI:** 16790184
+ **DNI:** 16790184
 
 **Nieto, Walter**
-**DNI:** 244733343
+ **DNI:** 244733343
 
 **Flores Altamirano, Maximiliano**
-**DNI:** 25941784
+ **DNI:** 25941784
 
 **Ataide, Joaquin Esteban**
-**DNI:** 45938403
+ **DNI:** 45938403
 
 **Rossani, Valentino**
-**DNI:** 45953219
+ **DNI:** 45953219
 
 **Nieto, Nadia Ingrid**
-**DNI:** 31355860
+ **DNI:** 31355860
 
 ### Instruciones de ejecucion:
 
