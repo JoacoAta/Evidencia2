@@ -1,5 +1,5 @@
 # Sistema de monitoreo Agrotech Coop
-Este programa permite la gestion de parcelas y sensores, registrar mediciones y vizualizar los datos actualizados, a travez de un menu y submenues interactivos
+Este programa permite la gestion de parcelas y sensores, registrar mediciones y vizualizar los datos actualizados, a travez de un menu y submenus interactivos.
 
 ### Integrantes del Grupo:
 **Lamas, Liliana Elizabeth**
